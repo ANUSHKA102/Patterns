@@ -1,5 +1,5 @@
 /*
-Pattern 1
+Pattern 3
 Take no of rows as input then print like-
 for n=5:
 
