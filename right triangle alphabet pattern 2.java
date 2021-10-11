@@ -1,4 +1,6 @@
 /*
+Pattern 22
+
 Take no of rows as input then print like-
 for n=5:
 
