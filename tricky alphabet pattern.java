@@ -1,9 +1,6 @@
 /*
 Pattern 24
 
-Take no of rows as input then print like-
-for n=5:
-
 A 
 B G
 C H M
